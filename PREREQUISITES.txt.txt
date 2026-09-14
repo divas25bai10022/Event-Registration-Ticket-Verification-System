@@ -1,0 +1,4 @@
+System Requirements:
+- Java Development Kit (JDK) 8 or higher
+- Apache Maven 3.6+ (optional, for building from source)
+- Windows, macOS, or Linux OS
